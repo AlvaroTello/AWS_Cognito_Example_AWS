@@ -1,1 +1,1 @@
-# Inspinia_with_Angular_4_AWS
+# AWS Cognito Example with AWS Services
